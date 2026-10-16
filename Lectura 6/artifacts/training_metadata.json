@@ -1,0 +1,9 @@
+{
+  "champion": "logistic_regression",
+  "cv_accuracy": 0.9790640394088669,
+  "best_params": {
+    "model__C": 1.0
+  },
+  "random_state": 42,
+  "selection_rule": "highest mean validation accuracy in 5-fold stratified CV"
+}
